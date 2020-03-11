@@ -16,7 +16,7 @@ services:
 
   web:
     container_name: webserver
-    image: info_page:2020
+    image: dhbw_php:2020
     ports:
     - 8080:80
     networks:
