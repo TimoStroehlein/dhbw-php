@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/InfoPage.iml" filepath="$PROJECT_DIR$/.idea/InfoPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dhbw-php.iml" filepath="$PROJECT_DIR$/.idea/dhbw-php.iml" />
     </modules>
   </component>
 </project>

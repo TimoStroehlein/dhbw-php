@@ -5,7 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-    Test
     <?php
     echo 'Test 123';
     ?>

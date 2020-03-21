@@ -5,7 +5,7 @@
       <paths name="Apache">
         <serverdata>
           <mappings>
-            <mapping deploy="InfoPage" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="dhbw-php" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
